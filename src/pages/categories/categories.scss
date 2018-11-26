@@ -1,0 +1,21 @@
+page-category {
+  .card-background-page {
+    ion-card {
+      position: relative;
+    }
+
+    ion-row .col {
+      padding: 0;
+    }
+
+    .card-title {
+      position: absolute;
+      top: 70%;
+      left: 4%;
+      font-size: 1.5em;
+      width: 90%;
+      font-weight: bold;
+      color: #fff;
+    }
+  }
+}
